@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/pre-dexed/debug/classes-b88119d2183b368ca8c9e4fd796b4b440cc73895.jar" />
+    </item>
+    <item
+        jar="/home/eashan/Downloads/androidsdk/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-c050a0361d6804f5c059c12e03a5279f39d1dff8.jar" />
+    </item>
+    <item
+        jar="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/pre-dexed/debug/classes-6cf112f88e47e84ce24f79d3621766135c165479.jar" />
+    </item>
+    <item
+        jar="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/exploded-aar/json2app/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="968aefa69dd3909840cf21cf9ba13b5d6b7f45ee">
+        <dex dex="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/pre-dexed/debug/classes-6b7917130dc06f75eb2fdbd2394d9362f83e3da4.jar" />
+    </item>
+    <item
+        jar="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-8353dabfc0c10895cbe1e8a5b55e5fd60d0e08dd.jar" />
+    </item>
+    <item
+        jar="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/pre-dexed/debug/classes-3a03d683e02996109d0b32bfa1f7a53e864072bf.jar" />
+    </item>
+    <item
+        jar="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/pre-dexed/debug/classes-9b9fc68c64340ed5c9c9a421a648390d290d6c73.jar" />
+    </item>
+    <item
+        jar="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/pre-dexed/debug/classes-4baa4db89365f0ce76ee93f81200ac48f69c5e15.jar" />
+    </item>
+    <item
+        jar="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/eashan/Fourthlion/modular-ui-framework/android/app/build/intermediates/pre-dexed/debug/classes-4b53a9499c73ff39bef151c272a090c08506f76e.jar" />
+    </item>
+
+</items>

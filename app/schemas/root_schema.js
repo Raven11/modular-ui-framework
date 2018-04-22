@@ -1,0 +1,157 @@
+const schema = {
+
+"layouts":{
+  "layout1":{
+    "component":"GenericComponent",
+    "id":"comp1",
+    "style":{
+      "flex":1,
+      "flexDirection":"column",
+      "backgroundColor": "#F5FCFF",
+    },
+   "title":"Home",
+   "children":[
+     {
+       "id":"b1",
+       "component":"Button",
+       "styleClass":{
+         "outerContainer":"buttonOuterStyle"
+       },
+       "children":[
+         {
+        "id":"tv_button",
+        "component":"TextView",
+         "binding":"Navigation Example",
+         "styleClass":{
+           "text":"button"
+         }
+       }
+       ],
+       "meta":{
+         "onClickModule":{
+            "moduleName":"pushNewPage",
+            "args":["navigation@layout1",]
+          }
+       }
+     },
+      {
+       "id":"b2",
+       "component":"Button",
+       "styleClass":{
+         "outerContainer":"buttonOuterStyle",
+       },
+       "children":[
+         {
+        "id":"t2",
+        "component":"TextView",
+         "binding":"My Profile screen",
+         "styleClass":{
+           "text":"button"
+         },
+       }
+       ],
+       "meta":{
+         "onClickModule":{
+            "moduleName":"pushNewPage",
+            "args":["myProfile@layout1",]
+          }
+       }
+     },
+      {
+       "id":"b3",
+       "component":"Button",
+       "styleClass":{
+         "outerContainer":"buttonOuterStyle",
+       },
+       "children":[
+         {
+        "id":"t3",
+        "component":"TextView",
+         "binding":"Store Search screen",
+         "styleClass":{
+           "text":"button"
+         },
+       }
+       ],
+       "meta":{
+         "onClickModule":{
+            "moduleName":"pushNewPage",
+            "args":["searchScreen@layout1",]
+          }
+       }
+     },
+
+   ]
+    },
+},
+"stylesheet":{
+    "redText":{
+      "color":"red",
+    },
+    "boldText":{
+      "fontWeight":"bold"
+    },
+    "button":{
+      "textAlign":"center",
+      "marginTop":10,
+      "marginBottom":10,
+      "fontSize":20,
+      "color":"white",
+    },
+    "descText":{
+    "textAlign":"center",
+    "marginTop":40,
+    "marginBottom":40,
+    "fontSize":20,
+    "color":"blue",
+  },
+  "statusText":{
+    "textAlign":"center",
+    "marginTop":20,
+    "marginBottom":20,
+    "fontSize":20,
+    "color":"orange",
+  },
+  "buttonOuterStyle":{
+    "marginTop":20,
+  },
+  "textStyle":{
+      marginLeft:20,
+      marginRight:20,
+      marginTop:7,
+      marginBottom:7,
+      fontWeight:"bold",
+    },
+    "textInputStyle":{
+      marginLeft:20,
+      marginRight:20,
+    },
+    "radioContainerStyle":{
+      marginLeft:20,
+      marginRight:20,
+    },
+    "dateTouchContainerStyle":{
+      marginLeft:20,
+      marginRight:20,
+    },
+    "buttonText":{
+      color:"white",
+    },
+    "container":{
+      margin:10
+    },
+    "listContainer":{
+      margin:5,
+    }
+},
+"schemaConfig":{
+  "prefix":"root",
+},
+"appConfig":{
+  "startPage":"root@layout1",
+},
+
+}
+
+
+export default schema;

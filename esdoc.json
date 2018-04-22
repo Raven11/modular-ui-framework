@@ -1,0 +1,8 @@
+{
+  "source": "./core",
+  "destination": "./temp/esdoc",
+  "plugins": [
+    {"name": "esdoc-es7-plugin"}
+  ]
+}
+

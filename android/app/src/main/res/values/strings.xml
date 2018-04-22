@@ -1,0 +1,5 @@
+<resources>
+
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">LK1996f6Au0mrH-yty2AETsE64ZcE1dZI4G3W</string>
+    <string name="app_name">CCD Business</string>
+</resources>
