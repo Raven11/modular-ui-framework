@@ -1,4 +1,5 @@
 # modular-ui-framework
+<<<<<<< HEAD
 Modular UI Framework enables you to generate cross platform apps with a Json configuration
 ## v0.1
 
@@ -42,3 +43,6 @@ To run tests
 * Better logging support (on/off switch for every module & different logging levels info, debug, warning, critical) 
 * Database support to store persistent data (this would be front faced with redux) 
 
+=======
+react-native
+>>>>>>> d0710e2949f2d3f58c35d408ec8f287e5a9e7007
